@@ -4,7 +4,7 @@
 * JPA - Hibernate
 * PostGreeSQL
 
-### FrontEnd em produção ainda 
+### FrontEnd (em produção) 
 [Link da aplicação](https://spring-test-home.herokuapp.com/) 
 
 ### Modelagem de dados
