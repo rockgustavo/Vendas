@@ -3,6 +3,8 @@
 * Orientado à Objetos
 * JPA - Hibernate
 * PostGreeSQL
+* HTML5
+* CSS3
 
 ### FrontEnd (em produção) 
 [Link da aplicação](https://spring-test-home.herokuapp.com/) 
