@@ -8,4 +8,4 @@
 [Link da aplicação](https://spring-test-home.herokuapp.com/) 
 
 ### Modelagem de dados
-![Modelo](src/main/resources/img/Modelo.png)
+![Modelo](src/main/resources/static/img/Modelo.png)
