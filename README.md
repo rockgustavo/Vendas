@@ -6,7 +6,7 @@
 * Heroku
 
 ### FrontEnd em produção ainda 
-[Link online](https://spring-test-home.herokuapp.com/) 
+[Link da aplicação](https://spring-test-home.herokuapp.com/) 
 
 ### Modelagem de dados
 ![Modelo](Modelo.png)
