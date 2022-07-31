@@ -19,7 +19,6 @@ public class HomeController {
 	
 	@PostMapping("/logar")
 	public ModelAndView create(User user) {
-		
 		System.out.println("LOGIN: " + user.getName() + " - SENHA: " + user.getPassword());
 		
 		mv.setViewName("home/index");
