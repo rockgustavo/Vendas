@@ -9,13 +9,14 @@
 		<version>2.7.2</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.teste</groupId>
-	<artifactId>springTestHome</artifactId>
+	<groupId>com.rockgustavo</groupId>
+	<artifactId>Vendas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>course</name>
-	<description>springTestHome</description>
+	<name>Vendas</name>
+	<description>Recursos Humanos Autorization Server</description>
+
 	<properties>
-		<java.version>11</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -39,6 +40,11 @@
 			<artifactId>spring-boot-devtools</artifactId>
 			<scope>runtime</scope>
 			<optional>true</optional>
+		</dependency>
+
+		<dependency>
+			<groupId>org.springframework.security</groupId>
+			<artifactId>spring-security-crypto</artifactId>
 		</dependency>
 
 		<dependency>
@@ -77,4 +83,3 @@
 	</build>
 
 </project>
-
