@@ -1,4 +1,4 @@
-# Projeto com ênfase no framework Java Spring Boot
+# Arquitetura Web
 
 ## BackEnd Java utilizando as tecnologias:
 * Spring Boot
